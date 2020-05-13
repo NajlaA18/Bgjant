@@ -1,0 +1,21 @@
+.nav {
+  background-color: #8060e5; }
+  .nav ul li {
+    list-style: none; }
+    .nav ul li a {
+      text-decoration: none;
+      font-size: 20px;
+      color: gray; }
+      .nav ul li a:hover {
+        color: royalblue; }
+
+.heading, h1 {
+  color: orange;
+  font-size: 40px;
+  background-color: gray;
+  text-align: center; }
+
+h1:hover {
+  background-color: lightseagreen; }
+
+/*# sourceMappingURL=main.css.map */
